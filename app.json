@@ -1,0 +1,12 @@
+{
+  "name": "onesignal-app",
+  "displayName": "onesignal-app",
+  "expo": {
+    "name": "onesignal-app",
+    "slug": "onesignal-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
